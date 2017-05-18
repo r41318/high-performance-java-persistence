@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.vladmihalcea.book.hpjp.util.AbstractTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/AbstractTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="102" width="271" x="506" y="21"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.vladmihalcea.book.hpjp.util.DataSourceProviderIntegrationTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/DataSourceProviderIntegrationTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="146" width="604" x="418" y="151"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.vladmihalcea.book.hpjp.jdbc.batch.AbstractBatchStatementTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/AbstractBatchStatementTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="85" width="293" x="456" y="501"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.vladmihalcea.book.hpjp.jdbc.batch.BatchStatementTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/BatchStatementTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="73" width="394" x="458" y="788"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.vladmihalcea.book.hpjp.jdbc.transaction.AutoCommitTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/transaction/AutoCommitTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1161" y="68"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.vladmihalcea.book.hpjp.jooq.mysql.crud.BatchTest" project="jooq-mysql" 
+    file="/jooq-mysql/src/test/java/com/vladmihalcea/book/hpjp/jooq/mysql/crud/BatchTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1489" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.vladmihalcea.book.hpjp.jooq.mysql.crud.AbstractJOOQMySQLIntegrationTest" 
+    project="jooq-mysql" 
+    file="/jooq-mysql/src/test/java/com/vladmihalcea/book/hpjp/jooq/mysql/crud/AbstractJOOQMySQLIntegrationTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1443" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" 
+    name="com.vladmihalcea.book.hpjp.jooq.AbstractJOOQIntegrationTest.DSLContextVoidCallable" project="jooq-core" 
+    file="/jooq-core/src/test/java/com/vladmihalcea/book/hpjp/jooq/AbstractJOOQIntegrationTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1737" y="212"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="9" language="java" 
+    name="com.vladmihalcea.book.hpjp.jooq.AbstractJOOQIntegrationTest.DSLContextCallable" project="jooq-core" 
+    file="/jooq-core/src/test/java/com/vladmihalcea/book/hpjp/jooq/AbstractJOOQIntegrationTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1738" y="93"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="com.vladmihalcea.book.hpjp.jooq.AbstractJOOQIntegrationTest" project="jooq-core" 
+    file="/jooq-core/src/test/java/com/vladmihalcea/book/hpjp/jooq/AbstractJOOQIntegrationTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1455" y="171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" 
+    name="com.vladmihalcea.book.hpjp.jdbc.batch.generatedkeys.identity.OracleGeneratedKeysBatchPreparedStatementTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/identity/OracleGeneratedKeysBatchPreparedStatementTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="211" y="811"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.vladmihalcea.book.hpjp.util.AbstractOracleXEIntegrationTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/AbstractOracleXEIntegrationTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="99" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="13" language="java" 
+    name="com.vladmihalcea.book.hpjp.util.providers.DataSourceProvider.IdentifierStrategy" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/providers/DataSourceProvider.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="92" y="487"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <nesting id="22">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <nesting id="23">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
