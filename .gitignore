@@ -16,3 +16,6 @@ target/
 core/btm1.tlog
 core/btm2.tlog
 *.tlog
+*.classpath
+*.project
+*.settings
