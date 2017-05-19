@@ -37,6 +37,7 @@ public class StatementCacheTest extends DataSourceProviderIntegrationTest {
             this.cacheSize = cacheSize;
         }
 
+        //oracle DB
         @Override
         public DataSource dataSource() {
             DataSource dataSource = super.dataSource();
@@ -61,6 +62,7 @@ public class StatementCacheTest extends DataSourceProviderIntegrationTest {
         }
     }
 
+    //SQL server
     public static class CachingJTDSDataSourceProvider extends JTDSDataSourceProvider {
         private final int cacheSize;
 
@@ -83,6 +85,7 @@ public class StatementCacheTest extends DataSourceProviderIntegrationTest {
         }
     }
 
+    //PostgreSQL
     public static class CachingPostgreSQLDataSourceProvider extends PostgreSQLDataSourceProvider {
         private final int cacheSize;
 
@@ -115,6 +118,7 @@ public class StatementCacheTest extends DataSourceProviderIntegrationTest {
         super(dataSourceProvider);
     }
 
+    //mysql
     @Parameterized.Parameters
     public static Collection<DataSourceProvider[]> rdbmsDataSourceProvider() {
         List<DataSourceProvider[]> providers = new ArrayList<>();
