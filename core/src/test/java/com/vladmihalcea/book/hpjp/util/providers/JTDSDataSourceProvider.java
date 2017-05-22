@@ -19,11 +19,11 @@ public class JTDSDataSourceProvider implements DataSourceProvider {
 	@Override
 	public DataSource dataSource() {
 		JtdsDataSource dataSource = new JtdsDataSource();
-		dataSource.setServerName( "localhost" );
+		dataSource.setServerName( "200.200.200.203" );
 		dataSource.setDatabaseName( "high_performance_java_persistence" );
 		dataSource.setInstance( "SQLEXPRESS" );
 		dataSource.setUser( "sa" );
-		dataSource.setPassword( "adm1n" );
+		dataSource.setPassword( "Ude123@iisi" );
 		return dataSource;
 	}
 
@@ -36,7 +36,7 @@ public class JTDSDataSourceProvider implements DataSourceProvider {
 	public Properties dataSourceProperties() {
 		Properties properties = new Properties();
 		properties.setProperty( "databaseName", "high_performance_java_persistence" );
-		properties.setProperty( "serverName", "localhost" );
+		properties.setProperty( "serverName", "200.200.200.203" );
 		properties.setProperty( "instance", "SQLEXPRESS" );
 		properties.setProperty( "user", username() );
 		properties.setProperty( "password", password() );
@@ -55,7 +55,7 @@ public class JTDSDataSourceProvider implements DataSourceProvider {
 
 	@Override
 	public String password() {
-		return "adm1n";
+		return "Ude123@iisi";
 	}
 
 	@Override

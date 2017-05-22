@@ -25,7 +25,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<version>2.4</version>
+				<version>3.0.2</version>
 				<executions>
 					<execution>
 						<goals>
@@ -42,8 +42,8 @@
 				<executions>
 					<execution>
 						<configuration>
-							<!--This is ned for Byte Buddy -->
-							<!--<dir>${project.build.outputDirectory}/com/vladmihalcea/book/hpjp/hibernate/forum</dir> -->
+							This is ned for Byte Buddy
+							<dir>${project.build.outputDirectory}/com/vladmihalcea/book/hpjp/hibernate/forum</dir>
 							<failOnError>true</failOnError>
 							<enableLazyInitialization>true</enableLazyInitialization>
 							<enableDirtyTracking>false</enableDirtyTracking>

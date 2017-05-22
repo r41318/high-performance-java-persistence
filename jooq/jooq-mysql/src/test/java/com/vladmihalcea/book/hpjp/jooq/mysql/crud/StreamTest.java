@@ -20,7 +20,7 @@ public class StreamTest extends AbstractJOOQMySQLIntegrationTest {
     public void init() {
         super.init();
 
-        doInJOOQ(sql -> {
+        doInJOOQ1(sql -> {
             sql
             .deleteFrom(POST)
             .execute();
@@ -49,7 +49,7 @@ public class StreamTest extends AbstractJOOQMySQLIntegrationTest {
 
     @Test
     public void testStream() {
-        doInJOOQ(sql -> {
+        doInJOOQ1(sql -> {
 
 
         });

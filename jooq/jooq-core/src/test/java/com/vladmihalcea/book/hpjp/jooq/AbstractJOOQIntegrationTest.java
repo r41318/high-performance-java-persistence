@@ -87,7 +87,7 @@ public abstract class AbstractJOOQIntegrationTest extends AbstractTest {
         return doInJOOQ(callable, null);
     }
 
-    protected void doInJOOQ(DSLContextVoidCallable callable) {
+    protected void doInJOOQ1(DSLContextVoidCallable callable) {
         doInJOOQ(callable, null);
     }
 

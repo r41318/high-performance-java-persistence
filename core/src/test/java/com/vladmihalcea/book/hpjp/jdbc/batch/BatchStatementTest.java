@@ -31,7 +31,7 @@ public class BatchStatementTest extends AbstractBatchStatementTest {
         providers.add(new DataSourceProvider[]{new PostgreSQLDataSourceProvider()});
         providers.add(new DataSourceProvider[]{new OracleDataSourceProvider()});
         providers.add(new DataSourceProvider[]{new MySQLDataSourceProvider()});
-//        providers.add(new DataSourceProvider[]{new SQLServerDataSourceProvider()});
+        providers.add(new DataSourceProvider[]{new SQLServerDataSourceProvider()});
         return providers;
     }
 

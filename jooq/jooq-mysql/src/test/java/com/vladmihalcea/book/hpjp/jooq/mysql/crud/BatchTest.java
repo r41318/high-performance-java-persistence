@@ -24,7 +24,7 @@ public class BatchTest extends AbstractJOOQMySQLIntegrationTest {
 
     @Test
     public void testBatching() {
-        doInJOOQ(sql -> {
+        doInJOOQ1(sql -> {
             sql.delete(POST).execute();
             BatchBindStep batch = sql.batch(sql
                 .insertInto(POST, POST.TITLE)
@@ -42,7 +42,7 @@ public class BatchTest extends AbstractJOOQMySQLIntegrationTest {
 
     @Test
     public void testBatchingReturning() {
-        doInJOOQ(sql -> {
+        doInJOOQ1(sql -> {
             sql.delete(POST).execute();
             BatchBindStep batch = sql.batch(sql
                 .insertInto(POST, POST.TITLE)
@@ -60,7 +60,7 @@ public class BatchTest extends AbstractJOOQMySQLIntegrationTest {
 
     @Test @Ignore("values(Collection) is not INSERT INTO ... VALUES ( (..) (..) (..) )")
     public void testBatchingWithCollection() {
-        doInJOOQ(sql -> {
+        doInJOOQ1(sql -> {
             sql.delete(POST).execute();
 
             int insertCount = sql

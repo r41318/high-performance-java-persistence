@@ -20,7 +20,7 @@ public class SQLServerDataSourceProvider implements DataSourceProvider {
 	public DataSource dataSource() {
 		SQLServerDataSource dataSource = new SQLServerDataSource();
 		dataSource.setURL(
-				"jdbc:sqlserver://200.200.200.203;instance=SQLEXPRESS;databaseName=high_performance_java_persistence;user=sa;password=adm1n" );
+				"jdbc:sqlserver://200.200.200.203;instance=SQLEXPRESS;databaseName=high_performance_java_persistence;user=sa;password=Ude123@iisi" );
 		return dataSource;
 	}
 
@@ -38,7 +38,7 @@ public class SQLServerDataSourceProvider implements DataSourceProvider {
 
 	@Override
 	public String url() {
-		return "jdbc:sqlserver://200.200.200.203;instance=SQLEXPRESS;databaseName=high_performance_java_persistence;user=sa;password=adm1n";
+		return "jdbc:sqlserver://200.200.200.203;instance=SQLEXPRESS;databaseName=high_performance_java_persistence;user=sa;password=Ude123@iisi";
 	}
 
 	@Override

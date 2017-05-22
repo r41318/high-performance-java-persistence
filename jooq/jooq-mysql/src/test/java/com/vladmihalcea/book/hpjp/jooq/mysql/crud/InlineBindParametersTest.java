@@ -25,7 +25,7 @@ public class InlineBindParametersTest extends AbstractJOOQMySQLIntegrationTest {
 
     @Test
     public void test() {
-        doInJOOQ(sql -> {
+        doInJOOQ1(sql -> {
             sql
             .deleteFrom(table("post"))
             .execute();
