@@ -92,7 +92,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/identity/OracleGeneratedKeysBatchPreparedStatementTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="62" width="392" x="335" y="401"/>    
+    <position height="62" width="392" x="482" y="250"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -103,7 +103,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/AbstractOracleXEIntegrationTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="519" y="515"/>    
+    <position height="-1" width="-1" x="637" y="437"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -115,7 +115,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/identity/MySQLGeneratedKeysBatchPreparedStatementTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="990" y="436"/>    
+    <position height="-1" width="-1" x="1353" y="369"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -148,7 +148,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/AbstractMySQLIntegrationTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="805" y="510"/>    
+    <position height="-1" width="-1" x="1224" y="445"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -172,7 +172,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/PostgreSQLSequenceGeneratedKeysBatchPreparedStatementTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1554" y="465"/>    
+    <position height="-1" width="-1" x="2242" y="437"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -184,11 +184,11 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/PostgreSQLSequenceCallTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="124" width="368" x="-97" y="142"/>    
+    <position height="-1" width="-1" x="-692" y="125"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
     </display>  
   </class>  
   <class id="18" language="java" 
@@ -196,11 +196,11 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/OracleSequenceCallTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="124" width="368" x="311" y="142"/>    
+    <position height="-1" width="-1" x="-284" y="125"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
     </display>  
   </class>  
   <class id="19" language="java" 
@@ -208,7 +208,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/SQLServerSequenceGeneratedKeysBatchPreparedStatementTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1831" y="392"/>    
+    <position height="-1" width="-1" x="2519" y="364"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -220,11 +220,11 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/SQLServerSequenceCallTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="124" width="368" x="719" y="142"/>    
+    <position height="-1" width="-1" x="124" y="125"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
     </display>  
   </class>  
   <class id="21" language="java" 
@@ -232,11 +232,11 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/AbstractSequenceCallTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="267" width="368" x="311" y="-183"/>    
+    <position height="-1" width="-1" x="-283" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
     </display>  
   </class>  
   <class id="22" language="java" 
@@ -244,7 +244,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/AbstractSequenceGeneratedKeysBatchPreparedStatementTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1803" y="545"/>    
+    <position height="-1" width="-1" x="2491" y="517"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -256,7 +256,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/sequence/OracleSequenceGeneratedKeysBatchPreparedStatementTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="2079" y="466"/>    
+    <position height="-1" width="-1" x="2767" y="438"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -280,7 +280,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/caching/StatementCachePoolableTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="53" y="897"/>    
+    <position height="-1" width="-1" x="49" y="791"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -303,7 +303,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/caching/StatementCachePoolableTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="100" y="992"/>    
+    <position height="-1" width="-1" x="4" y="912"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -326,7 +326,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/caching/OracleExplicitStatementCacheTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="66" y="628"/>    
+    <position height="-1" width="-1" x="1034" y="279"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -361,7 +361,7 @@
     project="high-performance-java-persistence-core" 
     file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/caching/OracleImplicitStatementCacheTest.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="289" y="703"/>    
+    <position height="-1" width="-1" x="334" y="286"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -457,193 +457,366 @@
       <operations public="false" package="false" protected="false" private="false" static="true"/>    
     </display>  
   </class>  
-  <generalization id="41">    
-    <end type="SOURCE" refId="4"/>    
-    <end type="TARGET" refId="3"/>  
-  </generalization>  
-  <nesting id="42">    
+  <class id="41" language="java" name="com.vladmihalcea.book.hpjp.jdbc.caching.SQLServerImplicitStatementCacheTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/caching/SQLServerImplicitStatementCacheTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1749" y="366"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.vladmihalcea.book.hpjp.util.AbstractSQLServerIntegrationTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/util/AbstractSQLServerIntegrationTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1577" y="443"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.vladmihalcea.book.hpjp.jdbc.index.PostgresIndexSelectivityTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/index/PostgresIndexSelectivityTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-29" y="604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.ResultSetCursorTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/ResultSetCursorTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-703" y="890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.ResultSetColumnSizeTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/ResultSetColumnSizeTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-678" y="814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.SQLServerResultSetLimitTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/SQLServerResultSetLimitTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-675" y="735"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.OracleResultSetLimitTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/OracleResultSetLimitTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-646" y="656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.ResultSetLimitTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/ResultSetLimitTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-647" y="576"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.SQLStandardResultSetLimitTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/SQLStandardResultSetLimitTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-648" y="488"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.ResultSetFetchSizeTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/ResultSetFetchSizeTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-667" y="404"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.vladmihalcea.book.hpjp.jdbc.fetching.ResultSetScollabilityTest" 
+    project="high-performance-java-persistence-core" 
+    file="/high-performance-java-persistence-core/src/test/java/com/vladmihalcea/book/hpjp/jdbc/fetching/ResultSetScollabilityTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-669" y="326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="52">    
     <end type="SOURCE" refId="33"/>    
     <end type="TARGET" refId="31"/>  
   </nesting>  
-  <realization id="43">    
-    <end type="SOURCE" refId="38"/>    
-    <end type="TARGET" refId="35"/>  
-  </realization>  
-  <generalization id="44">    
-    <end type="SOURCE" refId="12"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="45">    
+  <generalization id="53">    
     <end type="SOURCE" refId="31"/>    
     <end type="TARGET" refId="34"/>  
   </generalization>  
-  <realization id="46">    
-    <end type="SOURCE" refId="34"/>    
-    <end type="TARGET" refId="35"/>  
-  </realization>  
-  <generalization id="47">    
-    <end type="SOURCE" refId="6"/>    
-    <end type="TARGET" refId="7"/>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
   </generalization>  
-  <nesting id="48">    
-    <end type="SOURCE" refId="33"/>    
-    <end type="TARGET" refId="28"/>  
-  </nesting>  
-  <generalization id="49">    
+  <generalization id="55">    
     <end type="SOURCE" refId="10"/>    
     <end type="TARGET" refId="1"/>  
   </generalization>  
-  <nesting id="50">    
-    <end type="SOURCE" refId="26"/>    
-    <end type="TARGET" refId="24"/>  
-  </nesting>  
-  <realization id="51">    
-    <end type="SOURCE" refId="40"/>    
-    <end type="TARGET" refId="35"/>  
-  </realization>  
-  <nesting id="52">    
-    <end type="SOURCE" refId="35"/>    
-    <end type="TARGET" refId="36"/>  
-  </nesting>  
-  <generalization id="53">    
-    <end type="SOURCE" refId="21"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="54">    
-    <end type="SOURCE" refId="11"/>    
-    <end type="TARGET" refId="14"/>  
-  </generalization>  
-  <generalization id="55">    
-    <end type="SOURCE" refId="30"/>    
-    <end type="TARGET" refId="37"/>  
-  </generalization>  
   <generalization id="56">    
-    <end type="SOURCE" refId="25"/>    
-    <end type="TARGET" refId="39"/>  
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="2"/>  
   </generalization>  
-  <realization id="57">    
-    <end type="SOURCE" refId="39"/>    
-    <end type="TARGET" refId="35"/>  
-  </realization>  
-  <generalization id="58">    
-    <end type="SOURCE" refId="15"/>    
-    <end type="TARGET" refId="12"/>  
-  </generalization>  
-  <generalization id="59">    
+  <generalization id="57">    
     <end type="SOURCE" refId="23"/>    
     <end type="TARGET" refId="22"/>  
   </generalization>  
-  <association id="60">    
+  <nesting id="58">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <nesting id="59">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <nesting id="60">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="35"/>  
+  </realization>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <nesting id="67">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <realization id="69">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="35"/>  
+  </realization>  
+  <realization id="70">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="35"/>  
+  </realization>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="73">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="39"/>  
+  </generalization>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="78">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="79">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="35"/>  
+  </realization>  
+  <generalization id="80">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="85">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="88">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="89">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="90">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="39"/>  
+  </generalization>  
+  <association id="91">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="92" name="dataSourceProviders"/>      
+      <multiplicity id="93" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <generalization id="96">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <nesting id="97">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <generalization id="98">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="100">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="101">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="102">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="103">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="104">    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="61" name="dataSourceProvider">        
+      <attribute id="105" name="dataSourceProvider">        
         <position height="0" width="0" x="0" y="0"/>      
       </attribute>      
-      <multiplicity id="62" minimum="0" maximum="1">        
+      <multiplicity id="106" minimum="0" maximum="1">        
         <position height="0" width="0" x="0" y="0"/>      
       </multiplicity>    
     </end>    
     <end type="TARGET" refId="35" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <generalization id="63">    
-    <end type="SOURCE" refId="17"/>    
-    <end type="TARGET" refId="21"/>  
-  </generalization>  
-  <generalization id="64">    
-    <end type="SOURCE" refId="29"/>    
-    <end type="TARGET" refId="10"/>  
-  </generalization>  
-  <generalization id="65">    
-    <end type="SOURCE" refId="3"/>    
+  <generalization id="107">    
+    <end type="SOURCE" refId="44"/>    
     <end type="TARGET" refId="2"/>  
   </generalization>  
-  <generalization id="66">    
+  <generalization id="108">    
     <end type="SOURCE" refId="33"/>    
     <end type="TARGET" refId="2"/>  
   </generalization>  
-  <generalization id="67">    
-    <end type="SOURCE" refId="26"/>    
-    <end type="TARGET" refId="2"/>  
+  <generalization id="109">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="14"/>  
   </generalization>  
-  <generalization id="68">    
-    <end type="SOURCE" refId="18"/>    
-    <end type="TARGET" refId="21"/>  
-  </generalization>  
-  <generalization id="69">    
-    <end type="SOURCE" refId="13"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="70">    
-    <end type="SOURCE" refId="24"/>    
-    <end type="TARGET" refId="34"/>  
-  </generalization>  
-  <generalization id="71">    
-    <end type="SOURCE" refId="20"/>    
-    <end type="TARGET" refId="21"/>  
-  </generalization>  
-  <nesting id="72">    
-    <end type="SOURCE" refId="26"/>    
-    <end type="TARGET" refId="25"/>  
-  </nesting>  
-  <nesting id="73">    
-    <end type="SOURCE" refId="26"/>    
-    <end type="TARGET" refId="27"/>  
-  </nesting>  
-  <generalization id="74">    
-    <end type="SOURCE" refId="16"/>    
-    <end type="TARGET" refId="22"/>  
-  </generalization>  
-  <generalization id="75">    
-    <end type="SOURCE" refId="22"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="76">    
-    <end type="SOURCE" refId="14"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <nesting id="77">    
-    <end type="SOURCE" refId="33"/>    
-    <end type="TARGET" refId="30"/>  
-  </nesting>  
-  <generalization id="78">    
-    <end type="SOURCE" refId="19"/>    
-    <end type="TARGET" refId="22"/>  
-  </generalization>  
-  <generalization id="79">    
-    <end type="SOURCE" refId="5"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="80">    
-    <end type="SOURCE" refId="8"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="81">    
-    <end type="SOURCE" refId="27"/>    
-    <end type="TARGET" refId="37"/>  
-  </generalization>  
-  <generalization id="82">    
-    <end type="SOURCE" refId="7"/>    
-    <end type="TARGET" refId="8"/>  
-  </generalization>  
-  <generalization id="83">    
-    <end type="SOURCE" refId="9"/>    
-    <end type="TARGET" refId="10"/>  
-  </generalization>  
-  <realization id="84">    
+  <realization id="110">    
     <end type="SOURCE" refId="37"/>    
     <end type="TARGET" refId="35"/>  
   </realization>  
-  <generalization id="85">    
-    <end type="SOURCE" refId="28"/>    
-    <end type="TARGET" refId="39"/>  
-  </generalization>  
-  <generalization id="86">    
-    <end type="SOURCE" refId="2"/>    
+  <generalization id="111">    
+    <end type="SOURCE" refId="8"/>    
     <end type="TARGET" refId="1"/>  
   </generalization>  
-  <generalization id="87">    
-    <end type="SOURCE" refId="32"/>    
-    <end type="TARGET" refId="10"/>  
+  <generalization id="112">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="12"/>  
   </generalization>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
