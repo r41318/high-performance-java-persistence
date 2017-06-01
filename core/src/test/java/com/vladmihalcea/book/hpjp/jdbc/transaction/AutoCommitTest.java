@@ -95,7 +95,7 @@ public class AutoCommitTest extends AbstractTest {
                 transferStatement.setLong(1, cents);
                 transferStatement.setLong(2, toAccountId);
                 transferStatement.executeUpdate();
-
+    
                 connection.commit();
             } catch (SQLException e) {
                 connection.rollback();

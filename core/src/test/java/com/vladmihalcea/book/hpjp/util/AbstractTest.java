@@ -616,7 +616,9 @@ public abstract class AbstractTest {
             if (before != null) {
                 before.accept(connection);
             }
+            //
             connection.setAutoCommit(false);
+            //
             callback.accept(connection);
             connection.commit();
         } catch (Exception e) {
